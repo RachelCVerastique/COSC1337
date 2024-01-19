@@ -1,3 +1,14 @@
+//------------------------------------------------------
+//Programmer: Rachel Verastique
+//Course: COSC-1337-002
+//Semester: Spring 2024
+//Date: January 19, 2024
+//------------------------------------------------------
+
+
+
+
+
 public class JavaLab1 {
 
     public static void main(String[] args){
