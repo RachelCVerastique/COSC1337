@@ -5,10 +5,6 @@
 //Date: January 19, 2024
 //------------------------------------------------------
 
-
-
-
-
 public class JavaLab1 {
 
     public static void main(String[] args){
