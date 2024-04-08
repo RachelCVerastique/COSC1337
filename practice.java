@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
 import java.util.Scanner;
+
+import static java.util.Arrays.binarySearch;
 //
 //public class practice {
 //    public static void main(String[] args) {
@@ -134,22 +136,43 @@ import java.util.Scanner;
 //
 //
 //}
+import java.util.ArrayList;
 
-public class practice {
-    public static void main(String[] args) {
-        int x = 2;
-        switch(x){
-            case 1:
-                System.out.println("A1");
-                break;
-            case 2:
-                System.out.println("A2");
-                break;
-            case 3:
-                System.out.println("A3");
-                break;
-            default:
-                System.out.println("Default");
-        }
-    }
-}
+//public class practice {
+//    public static void main(String[] args) {
+
+        //        2. Create an integer array "a" with elements 3, 8, 1, 9, 12, 15, 2, 25.
+//        Find the minimum element of the array and display the index (hint: use a for-loop)
+//        Find the maximum element of the array and display the index (hint: use a for-loop)
+//
+//        int[] a = {3, 8, 1, 9, 12, 15, 2, 25};
+//
+//        int max = a[0];
+//        int min = a[0];
+//        int minIndex = 0;
+//        int maxIndex = 0;
+//
+//        for (int i = 0; i < a.length; i++) {
+//
+//            if (a[i] > max) {
+//                max = a[i];
+//                maxIndex = i;
+//            }
+//            if (a[i] < min) {
+//                min = a[i];
+//                minIndex = i;
+//                {
+//
+//                }}
+//
+//            }
+//            System.out.println("The max element in the 'a' array is " + max + ".");
+//            System.out.println("The index of " + max + " is " + maxIndex + ".");
+//            System.out.println("The min element in the 'a' array is " + min + ".");
+//            System.out.println("The index of " + min + " is " + minIndex + ".");
+//            System.out.println();
+
+
+//
+//    }
+//}
