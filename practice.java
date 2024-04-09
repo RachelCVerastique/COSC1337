@@ -4,9 +4,44 @@ import java.util.Scanner;
 
 import static java.util.Arrays.binarySearch;
 //
-//public class practice {
-//    public static void main(String[] args) {
-//    int row = 3;
+public class practice {
+    public static void main(String[] args) {
+
+
+//        Scanner scanner3 = new Scanner(System.in);
+//        System.out.println("1.) Enter a message: ");
+//        String message = scanner3.nextLine();
+//
+//
+//        StringBuilder newMessage = new StringBuilder();
+//        message = message.toLowerCase();
+//
+//        for (int i = 0; i < message.length(); i++) {
+//            char x = message.charAt(i);
+//            if(Character.isLetter(x)){
+//                x = (char) ((x - 'a' + 1 + 26) % 26 + 'a');
+//            }
+//
+//            newMessage.append(x);
+//        }
+//
+//        System.out.println(newMessage);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        //    int row = 3;
 //    int columns = 4;
 //    int [][] matrix = new int [row][columns];
 //
@@ -136,7 +171,7 @@ import static java.util.Arrays.binarySearch;
 //
 //
 //}
-import java.util.ArrayList;
+//import java.util.ArrayList;
 
 //public class practice {
 //    public static void main(String[] args) {
@@ -174,5 +209,5 @@ import java.util.ArrayList;
 
 
 //
-//    }
-//}
+    }
+}
